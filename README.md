@@ -27,7 +27,9 @@ De eerste stap in het programma is om de schaakpartijen vanuit het tekstbestand 
 Het programma biedt de mogelijkheid om de behaalde resultaten in verschillende spelvormen (blitz, bullet en rapid) te analyseren. In het voorbeeld is te zien hoe stap voor stap de Blitz-resultaten geanalyseerd worden. Allereerst worden alle Blitz-partijen uit de lijst van het vorige screenshot gehaald en in een lijst weergegeven. Maar deze lijst moet nog omgewerkt worden voor het maken van de analyse:
 
 ![image](https://github.com/priksten/VBA-Lichess-Data-Aanlyse/assets/85739742/1571b3bb-24ef-4c70-b808-40a8eb78ef47)
+
 In deze lijst staan de gegevens waarop de analyse gebaseerd is: nummer partij, rating speler, rating tegenstander en resultaat. 
 
 ![image](https://github.com/priksten/VBA-Lichess-Data-Aanlyse/assets/85739742/3768b9c7-15da-49bb-8ce5-eaec8f448d53)
+
 Het eindresultaat van de analyse. 
